@@ -1,0 +1,16 @@
+* {
+  color: #ffffff;
+}
+
+body {
+  background: radial-gradient(
+    circle,
+    rgba(120, 120, 120, 1) 0%,
+    rgba(89, 103, 84, 1) 9%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  background-repeat: no-repeat;
+  /* background-image: url("/src/assets/images.jfif");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; */
+}

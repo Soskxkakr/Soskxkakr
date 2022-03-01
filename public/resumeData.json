@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Reinaldo Taslim",
+    "job": "Software Engineer",
+    "caption": "I'm a mobile developer graduate and I'm passionate in programming both front end and backend.",
+    "post_introduction": "Yeah, I love sitting down and typing things to develop some stuffs like websites, apps, softwares, browsing some new stuffs and...",
+    "introduction": "Oh hi! I'm Reinaldo Taslim. Reinaldo or Rei for short. I'm an Indonesian programmer who loves and is passion for programming on both frontend and backend. I graduated from Asia Pacific University with a Mobile Technology degree in Kuala Lumpur, Malaysia. My goal is to pursue my skills further from what I have learned and learn some new stuffs such as Game Development and Game Art Design.",
+    "social": [
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/aldotaslim/"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/reinaldo-taslim-365b93136/"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://www.github.com/Soskxkakr"
+      }
+    ]
+  },
+  "resume": {
+    "work": [
+      {
+        "industry": "Kingdom Digital Sdn Bhd.",
+        "position": "Web Developer ━  Internship",
+        "duration": "Dec 2020 ━ Mar 2021",
+        "remote": true,
+        "description": [
+          "Compiled SASS and JS files using Webpack and Babel.",
+          "Developed, tested, and deployed responsive web apps written in HTML/CSS.",
+          "Developed and tested responsive email template using Cerberus written in HTML/CSS."
+        ]
+      },
+      {
+        "industry": "Moving Walls Sdn Bhd.",
+        "position": "Backend Developer ━  Internship",
+        "duration": "Sep 2019 ━ Oct 2019",
+        "remote": false,
+        "description": [
+          "Adapt to Linux environment and work with the team on Scrum methodology.",
+          "Learned Bash Shell Scripting.",
+          "Automate an email worker service with Cronjob and RabbitMQ in Python on MVC architecture.",
+          "Developed automation documentation and reporting to PDF in JAVA."
+        ]
+      }
+    ],
+    "skills": [
+      "Java",
+      "Javascript",
+      "React",
+      "React Native",
+      "Python",
+      "HTML5",
+      "(S)CSS",
+      "Bootstrap",
+      "Kotlin",
+      "Swift",
+      "C# Unity",
+      "Node",
+      "ASP.NET",
+      "Django REST Framework",
+      "Flask"
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SocialPal",
+        "languages": ["Javascript", "React Native", "Firebase"],
+        "description": "SocialPal is a Social Media Management Application that serves the purpose of managing multiple social medias under one platform. The current social medias that are integrated into this application are LinkedIn and Twitter.",
+        "created_at": "Dec 15, 2021",
+        "url": "https://github.com/Soskxkakr/SocialPal"
+      },
+      {
+        "title": "Space Food",
+        "languages": ["C#", "ASP.NET"],
+        "description": "A Food Ordering Website made in ASP.NET with an admin page that has CRUD functionalities towards products and users.",
+        "created_at": "Sep 17, 2021",
+        "url": "https://github.com/Soskxkakr/SpaceFood"
+      },
+      {
+        "title": "TravelPal",
+        "languages": ["Kotlin", "Firebase"],
+        "description": "Book a place to stay with TravelPal or become a host to earn cash from hosting a place to rent.",
+        "created_at": "Sep 17, 2021",
+        "url": "https://github.com/Soskxkakr/TravelPal"
+      },
+      {
+        "title": "Redeem Voucher",
+        "languages": ["Python", "Django REST Framework"],
+        "description": "A simple REST API that can redeem voucher codes and view the discount percentage.",
+        "created_at": "Sep 19, 2020",
+        "url": "https://github.com/Soskxkakr/VoucherRedeemDjangoREST"
+      },
+      {
+        "title": "Music IOS",
+        "languages": ["Swift"],
+        "description": "Music  player made in Swift Programming Language.",
+        "created_at": "May 13, 2020",
+        "url": "https://github.com/Soskxkakr/MusicIOS"
+      },
+      {
+        "title": "Retail Shop",
+        "languages": ["Java"],
+        "description": "A simple retail shop system that has both customer and admin view with CRUD functionalities with JSON as the dummy database for users and items.",
+        "created_at": "Mar 23, 2020",
+        "url": "https://github.com/Soskxkakr/RetailShop"
+      }
+    ]
+  }
+}
