@@ -47,7 +47,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: Node-app
-          path: 'build/dist/**'
+          path: 'build/**'
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
