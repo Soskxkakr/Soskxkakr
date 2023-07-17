@@ -43,8 +43,8 @@ jobs:
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
-      - name: List D a drive
-        run: dir D:\a\
+      - name: List D a Soskxkakr drive
+        run: dir D:\a\Soskxkakr\
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
