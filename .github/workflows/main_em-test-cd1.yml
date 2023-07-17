@@ -44,7 +44,7 @@ jobs:
 
     steps:
       - name: List contents of the directory
-        run: Get-ChildItem -Force -Path 'D:\a\Soskxkakr\Soskxkakr\'
+        run: Get-ChildItem -Force -Path 'D:\a\Soskxkakr\'
 
       - name: List D a Soskxkakr drive
         run: dir D:\a\Soskxkakr\
