@@ -48,10 +48,10 @@ jobs:
           ls -al
           dir
 
-      - name: List C: drive
+      - name: List C drive
         run: dir C:\
 
-      - name: List D: drive
+      - name: List D drive
         run: dir D:\
 
       - name: Upload artifact for deployment job
