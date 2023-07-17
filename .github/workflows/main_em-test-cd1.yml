@@ -43,14 +43,8 @@ jobs:
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
-      - name: Print working directory
-        run: Get-ChildItem -Force | Format-Table -AutoSize
-
-      - name: List C drive
-        run: dir C:\
-
-      - name: List D drive
-        run: dir D:\
+      - name: List D a drive
+        run: dir D:\a\
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
