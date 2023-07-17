@@ -45,8 +45,7 @@ jobs:
     steps:
       - name: Print working directory
         run: |
-          ls -al
-          dir
+        Get-ChildItem -Force | Format-Table -AutoSize
 
       - name: List C drive
         run: dir C:\
