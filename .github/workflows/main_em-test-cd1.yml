@@ -44,7 +44,7 @@ jobs:
 
     steps:
       - name: List contents of the directory
-        run: Get-ChildItem -Force -Path 'D:\a\Soskxkakr\'
+        run: Get-ChildItem -Force -Path 'D:\a\Soskxkakr\Soskxkakr\'
 
       - name: List D a Soskxkakr drive
         run: dir D:\a\Soskxkakr\
@@ -56,7 +56,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: Node-app
-          path: 'D:\a\Soskxkakr\dist\**'
+          path: 'D:\a\Soskxkakr\Soskxkakr\dist\**'
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
