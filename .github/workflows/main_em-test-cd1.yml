@@ -47,7 +47,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: Node-app
-          path: './${{ github.workspace }}/dist/**'
+          path: '${{ github.workspace }}\dist\**'
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
