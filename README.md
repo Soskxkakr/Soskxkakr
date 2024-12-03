@@ -8,8 +8,8 @@ I've been programming since I was 18 and I'd love to explore some new stuffs
 
 * 🖥️  See my portfolio at [Soskxkakr](http://soskxkakr.vercel.app/)
 * ✉️  You can contact me at [aldo.taslim@gmail.com](mailto:aldo.taslim@gmail.com)
-* 🧠  I'm learning Laravel framework and Angular JS
-* 🤝  I'm open to collaborating on React/ Native | Typescript Projects
+* 🧠  I'm learning Laravel framework, Angular JS, and Vue JS
+* 🤝  I'm open to collaborating on JS-Stacked Projects
 
 ### Skills
 
